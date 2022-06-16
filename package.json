@@ -22,7 +22,7 @@
     "nodemailer": "^6.4.6",
     "sequelize": "^5.21.10",
     "shortid": "^2.2.15",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "sequelize-cli": "^5.5.1"
